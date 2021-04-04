@@ -1,7 +1,9 @@
 # EKCalendarChooser Example
 
-![](Images/header.png)
+![EKCalendarChoose example](Images/header.png)
 
-### Example usage if on [Dev.to](https://dev.to/nemecek_f/how-to-use-ekcalendarchooser-in-swift-to-let-user-select-calendar-in-ios-4al5)
+#### Post available on my [blog](https://nemecek.be/blog/16/how-to-use-ekcalendarchooser-in-swift-to-let-user-select-calendar-in-ios)
+
+Need this in SwiftUI? Check out this [post](https://nemecek.be/blog/39/how-to-use-ekcalendarchooser-with-swiftui). And for more on EventKit you can check out my [series](https://nemecek.be/blog/series/eventkit).
 
 You can also check `EKEventEditViewController` [example](https://github.com/nemecek-filip/EKEventEditViewController.Example). :-)
